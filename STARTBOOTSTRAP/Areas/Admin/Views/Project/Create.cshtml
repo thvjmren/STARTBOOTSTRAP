@@ -1,0 +1,35 @@
+﻿@model CreateProjectVM
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create Project</h4>
+
+            <form method="post" enctype="multipart/form-data" class="forms-sample">
+
+                <div class="form-group">
+                    <label asp-for="Name">Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Name">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Photo">Photo</label>
+                    <input asp-for="Photo" class="form-control" placeholder="Photo" accept="image/*">
+                    <span class="text-danger" asp-validation-for="Photo"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CategoryId">Category</label>
+                    <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(Model.Categories,nameof(Position.Id),nameof(Position.Name)))">
+                        <option selected disabled>Choose Category</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="CategoryId"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

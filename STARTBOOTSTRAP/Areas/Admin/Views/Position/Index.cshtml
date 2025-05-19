@@ -37,9 +37,8 @@
                                 <td>
                                     @positionVM.Name
                                 </td>
-
                                 <td>
-                                    <a asp-controller="position" asp-action="update" class="btn btn-primary">Update</a>
+                                    <a asp-controller="position" asp-action="update" asp-route-id="@positionVM.Id" class="btn btn-primary">Update</a>
                                     <a asp-controller="position" asp-action="delete" asp-route-id="@positionVM.Id" class="btn btn-danger">Delete</a>
                                 </td>
                             </tr>

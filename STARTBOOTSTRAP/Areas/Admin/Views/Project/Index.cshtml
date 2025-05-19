@@ -1,0 +1,49 @@
+﻿@model List<GetProjectVM>
+@{
+    int count = 0;
+}
+
+<div class="col-lg-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Projects</h4>
+            <a asp-action="create" class="btn btn-primary">Create</a>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>Name</th>
+                            <th>Image</th>
+                            <th>Category</th>
+                            <th>Settings</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (GetProjectVM projectVM in Model)
+                        {
+                            count++;
+                            <tr>
+                                <td>@count</td>
+                                <td>@projectVM.Name</td>
+                                <td>
+                                    <img src="~/assets/img/portfolio/@projectVM.Image">
+                                </td>
+                                <td>
+                                   @projectVM.CategoryName
+                                </td>
+                                <td>
+                                    <a asp-action="update" class="btn btn-primary">Update</a>
+                                    <a asp-action="delete" asp-route-id="@projectVM.Id" class="btn btn-danger">Delete</a>
+                                </td>
+
+                                <td><label class="badge badge-danger">Pending</label></td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

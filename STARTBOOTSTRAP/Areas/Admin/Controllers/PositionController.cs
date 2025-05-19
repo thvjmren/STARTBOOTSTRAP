@@ -49,7 +49,7 @@ namespace STARTBOOTSTRAP.Areas.Admin.Controllers
 
             Position position = new()
             {
-                Name = positionVM.Name,
+                Name = positionVM.Name
             };
 
             await _context.Positions.AddAsync(position);
@@ -62,7 +62,7 @@ namespace STARTBOOTSTRAP.Areas.Admin.Controllers
         {
             if (id is null || id <= 0) return BadRequest();
 
-            Position? position = await _context.Positions.FirstOrDefaultAsync(p=>p.Id == id);
+            Position? position = await _context.Positions.FirstOrDefaultAsync(p => p.Id == id);
 
             if (position is null) return NotFound();
 
@@ -72,5 +72,44 @@ namespace STARTBOOTSTRAP.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (id is null || id <= 0) return BadRequest();
+
+            Position? position = await _context.Positions.FirstOrDefaultAsync(p => p.Id == id);
+
+            if (position is null) return NotFound();
+
+            UpdatePositionVM positionVM = new()
+            {
+                Name = position.Name
+            };
+            return View(positionVM);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(int? id, UpdatePositionVM positionVM)
+        {
+            if (!ModelState.IsValid) return BadRequest();
+
+            bool result = await _context.Positions.AnyAsync(p => p.Id != id && p.Name == positionVM.Name);
+            if (result)
+            {
+                ModelState.AddModelError(nameof(Position.Name), $"position:{positionVM.Name} is already exists");
+                return View();
+            }
+
+            Position? position = await _context.Positions.FirstOrDefaultAsync(p => p.Id == id);
+            if (position.Name == positionVM.Name)
+            {
+                return RedirectToAction(nameof(Index));
+            }
+
+            position.Name = positionVM.Name;
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

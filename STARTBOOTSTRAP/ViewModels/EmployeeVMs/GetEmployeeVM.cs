@@ -1,7 +1,4 @@
-﻿
-using STARTBOOTSTRAP.Models;
-
-namespace STARTBOOTSTRAP.ViewModels
+﻿namespace STARTBOOTSTRAP.ViewModels
 {
     public class GetEmployeeVM
     {
@@ -12,9 +9,8 @@ namespace STARTBOOTSTRAP.ViewModels
         public string Linkedin { get; set; }
 
         //relational
-        public int? PositionId { get; set; }
-        public IFormFile Photo { get; set; }
-        public List<Position> Positions { get; set; }
-        
+        public string PositionName { get; set; }
+        public string Image { get; set; }
+
     }
 }

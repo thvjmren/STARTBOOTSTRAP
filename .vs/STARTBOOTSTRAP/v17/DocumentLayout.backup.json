@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\viewmodels\\projectvms\\createprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\viewmodels\\projectvms\\createprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\viewmodels\\positionvms\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\viewmodels\\positionvms\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\viewmodels\\positionvms\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\viewmodels\\positionvms\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\viewmodels\\employeevms\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\viewmodels\\employeevms\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\viewmodels\\employeevms\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\viewmodels\\employeevms\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\viewmodels\\employeevms\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\viewmodels\\employeevms\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|c:\\users\\rana\\desktop\\startbootstrap\\startbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A65AD4-C8B1-42E7-A23E-773F00295DA5}|STARTBOOTSTRAP\\STARTBOOTSTRAP.csproj|solutionrelative:startbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProjectVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\ProjectVMs\\CreateProjectVM.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\ViewModels\\ProjectVMs\\CreateProjectVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\ProjectVMs\\CreateProjectVM.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\ViewModels\\ProjectVMs\\CreateProjectVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:15:35.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:13:20.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T04:06:13.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T04:06:12.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T04:06:01.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Models\\Category.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:59:04.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:53:12.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Project\\Index.cshtml*",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Project\\Index.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T03:30:06.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:49:03.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T02:08:04.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:50:16.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Models\\Project.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:21:21.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\PositionVMs\\CreatePositionVM.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\ViewModels\\PositionVMs\\CreatePositionVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\PositionVMs\\CreatePositionVM.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\ViewModels\\PositionVMs\\CreatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:54:29.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T02:56:37.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\PositionVMs\\UpdatePositionVM.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\ViewModels\\PositionVMs\\UpdatePositionVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\PositionVMs\\UpdatePositionVM.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\ViewModels\\PositionVMs\\UpdatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:55:50.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T12:12:39.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:46:20.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:24:50.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\UpdateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\UpdateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\UpdateEmployeeVM.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\UpdateEmployeeVM.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:14:28.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:00:49.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAAABAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T14:03:26.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\CreateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\CreateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:39:34.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:31:31.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Models\\Employee.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:54:05.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\GetEmployeeVM.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\GetEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\GetEmployeeVM.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\ViewModels\\EmployeeVMs\\GetEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:54:16.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:51:02.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:31:52.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:25:41.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T02:11:14.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\appsettings.json",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\appsettings.json",
+              "RelativeToolTip": "STARTBOOTSTRAP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T00:58:23.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:24:43.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Program.cs",
+              "RelativeDocumentMoniker": "STARTBOOTSTRAP\\Program.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\STARTBOOTSTRAP\\STARTBOOTSTRAP\\Program.cs",
+              "RelativeToolTip": "STARTBOOTSTRAP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:55:35.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

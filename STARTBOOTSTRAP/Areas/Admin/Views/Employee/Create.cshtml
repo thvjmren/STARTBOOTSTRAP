@@ -1,5 +1,53 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model CreateEmployeeVM
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create Position</h4>
+
+            <form method="post" enctype="multipart/form-data" class="forms-sample">
+
+                <div class="form-group">
+                    <label asp-for="Name">Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Name">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Photo">Photo</label>
+                    <input asp-for="Photo" class="form-control" placeholder="Photo">
+                    <span class="text-danger" asp-validation-for="Photo"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="X">X</label>
+                    <input asp-for="X" class="form-control" placeholder="X">
+                    <span class="text-danger" asp-validation-for="X"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Facebook">Facebook</label>
+                    <input asp-for="Facebook" class="form-control" placeholder="Facebook">
+                    <span class="text-danger" asp-validation-for="Facebook"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Linkedin">Linkedin</label>
+                    <input asp-for="Linkedin" class="form-control" placeholder="Linkedin">
+                    <span class="text-danger" asp-validation-for="Linkedin"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="PositionId">Position</label>
+                    <select asp-for="PositionId" class="form-control" asp-items="@(new SelectList(Model.Positions,nameof(Position.Id),nameof(Position.Name)))">
+                        <option selected disabled>Choose Position</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="PositionId"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

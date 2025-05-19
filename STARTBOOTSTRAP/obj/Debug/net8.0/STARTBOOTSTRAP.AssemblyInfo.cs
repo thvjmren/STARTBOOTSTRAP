@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STARTBOOTSTRAP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09563031d5ff6b631993029c3aca26f796532c47")]
 [assembly: System.Reflection.AssemblyProductAttribute("STARTBOOTSTRAP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STARTBOOTSTRAP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

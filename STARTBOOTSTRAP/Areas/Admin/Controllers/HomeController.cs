@@ -9,7 +9,5 @@ namespace STARTBOOTSTRAP.Areas.Admin.Controllers
         {
             return View();
         }
-
-
     }
 }

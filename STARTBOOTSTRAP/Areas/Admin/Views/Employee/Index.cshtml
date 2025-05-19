@@ -3,11 +3,11 @@
     int count = 0;
 }
 
-<div class="col-lg-6 grid-margin stretch-card">
+<div class="col-lg-12 grid-margin stretch-card">
     <div class="card">
         <div class="card-body">
             <h4 class="card-title">Employees</h4>
-
+            <a asp-action="create" class="btn btn-primary">Create</a>
             <div class="table-responsive">
                 <table class="table">
                     <thead>
@@ -29,13 +29,17 @@
                             <tr>
                                 <td>@count</td>
                                 <td>@employeeVM.Name</td>
-                                <td>@employeeVM.Photo</td>
+                                <td>
+                                   <img src="~/assets/img/@employeeVM.Image">     
+                                    </td>
+                                <td>@employeeVM.PositionName</td>
                                 <td>@employeeVM.X</td>
                                 <td>@employeeVM.Facebook</td>
                                 <td>@employeeVM.Linkedin</td>
-
-
-                                <td><label class="badge badge-danger">Pending</label></td>
+                                <td>
+                                    <a asp-action="update" asp-route-id="@employeeVM.Id" class="btn btn-primary">Update</a>
+                                    <a asp-action="delete" asp-route-id="@employeeVM.Id" class="btn btn-danger">Delete</a>
+                                </td>
                             </tr>
                         }
 
